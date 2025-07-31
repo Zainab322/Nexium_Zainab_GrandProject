@@ -1,4 +1,4 @@
-# 🍽️ Recipe Generator – AI-Powered Web App
+# 🍽️ Recipe Generator (Recipe Alchemy) – AI-Powered Web App
 
 ## 🔗 Live Demo
 https://nexium-zainab-grand-project.vercel.app
@@ -6,7 +6,7 @@ https://nexium-zainab-grand-project.vercel.app
 ## ✨ Features
 - Magic link email login (Supabase)
 - AI recipe generation via n8n + OpenRouter
-- Save recipes with Supabase
+- Save recipes with Supabase and dowload pdfs
 - View your saved and curated recipes
 - Fully deployed with CI/CD on Vercel
 
